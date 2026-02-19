@@ -1,0 +1,10 @@
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\bin\Debug\SimLab1.exe.config
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\bin\Debug\SimLab1.exe
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\bin\Debug\SimLab1.pdb
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.csproj.AssemblyReference.cache
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.Form1.resources
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.Properties.Resources.resources
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.csproj.GenerateResource.cache
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.csproj.CoreCompileInputs.cache
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.exe
+C:\Users\Duri\C++Projects\SimLab1\SimLab1\obj\Debug\SimLab1.pdb
